@@ -114,7 +114,7 @@ Profiled customers by:
 
 - __Designed Power BI dashboards for data-driven decision-making.__
 
-- __Delivered insights to inform geo-targeted marketing strategies.__
+- __Delivered insights to inform both geo-targeted and demographic-based marketing strategies.__
 
 # 📘 Data Dictionaries
 
