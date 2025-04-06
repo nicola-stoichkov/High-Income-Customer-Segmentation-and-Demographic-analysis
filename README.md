@@ -34,6 +34,8 @@ __1. Resource Deployment & Data Wrangling__
 
  - Uploaded raw .csv data to Azure Blob Storage.
 
+ - Created tables in the SQL Database.
+
  - Built Data Factory pipelines to automate data loading (ETL).
 
 __1.1 Cleaned data by:__
