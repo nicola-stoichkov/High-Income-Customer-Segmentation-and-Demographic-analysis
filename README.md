@@ -165,4 +165,4 @@ __DimGeography__
 | SpanishCountryRegionName    | VARCHAR(100) | Country name in Spanish.                     |
 | FrenchCountryRegionName     | VARCHAR(100) | Country name in French.                      |
 | PostalCode                  | VARCHAR(20)  | ZIP or postal code.                              |
-| SalesTerritoryKey           | INT          | FK (assumed) to sales territory dimension. |
+| SalesTerritoryKey           | INT          | FK to DimSalesTerritory. |
