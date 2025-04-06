@@ -17,8 +17,6 @@ By analyzing customer income, demographics, and geographic distribution, the pro
 
 This project replicates an enterprise-grade data analytics workflow fully deployed on Microsoft Azure:
 
-__Service__
-
  - Azure Storage:	Hosted source .csv files.
 
  - Azure SQL Server & Database:	Stored and managed data tables (DimCustomer, DimGeography).
