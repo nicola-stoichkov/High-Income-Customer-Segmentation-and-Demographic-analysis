@@ -17,15 +17,15 @@ By analyzing customer income, demographics, and geographic distribution, the pro
 
 This project replicates an enterprise-grade data analytics workflow fully deployed on Microsoft Azure:
 
- - Azure Storage:	Hosted source .csv files.
+ - __Azure Storage__:	Hosted source .csv files.
 
- - Azure SQL Server & Database:	Stored and managed data tables (DimCustomer, DimGeography).
+ - __Azure SQL Server & Database__:	Stored and managed data tables (DimCustomer, DimGeography).
 
- - Azure Data Factory:	Created pipelines to load data from Blob Storage into SQL Database.
+ - __Azure Data Factory__:	Created pipelines to load data from Blob Storage into SQL Database.
 
- - Azure Data Studio:	Used for SQL querying and data exploration.
+ - __Azure Data Studio__:	Used for SQL querying and data exploration.
 
- - Power BI Desktop:	Visualized insights by directly connecting to the Azure SQL Database.
+ - __Power BI Desktop__:	Visualized insights by directly connecting to the Azure SQL Database.
 
 # 🧠 Methodology
 
